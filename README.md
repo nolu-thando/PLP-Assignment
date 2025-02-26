@@ -14,5 +14,14 @@ efficiency - it measures how well a system uses resources.
 - Agile Methodologies
 - Object-orientated Programming
 - Change implementation
+- 
+List and briefly explain the phases of the Software Development Life Cycle.
+ planning - identify the problem and its solution. The technologies you will you to carry out the project and the timeline.
+ requirement analysis - The softwares and tools you will need. 
+design - drawing or using methods that will help you have an idea of what you want your application or solution to look like or what you want it to do.
+coding - converting software design into code that can be used anytime.
+ testing - examine the software for any bugs and glitches and its responsiveness.
+
+
 
   
